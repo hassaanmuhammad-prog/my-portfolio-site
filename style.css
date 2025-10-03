@@ -57,3 +57,13 @@ footer {
     padding: 10px;               /* space inside footer */
     margin-top: 20px;            /* space above footer */
 }
+
+
+.profile-photo{
+    max-width: 200px;
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    display: block;
+    margin: 20px auto;
+}
