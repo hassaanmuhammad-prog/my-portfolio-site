@@ -62,11 +62,11 @@ body {
 }
 
 footer {
-    background-color: #333;      /* dark footer to match navbar */
-    color: white;                /* footer text color */
-    text-align: center;          /* center content */
-    padding: 10px;               /* space inside footer */
-    margin-top: 20px;            /* space above footer */
+    background-color: #333;      
+    color: white;               
+    text-align: center;          
+    padding: 10px;               
+    margin-top: 20px;            
 }
 
 
@@ -85,4 +85,12 @@ footer {
     display:inline-block;
     margin-right: 10px;
     vertical-align: middle;
+}
+
+.project-card img, .project-image {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    display: block;
+    margin: 10px 0;
 }
