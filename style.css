@@ -67,3 +67,11 @@ footer {
     display: block;
     margin: 20px auto;
 }
+
+.socials-icon {
+    width: 40px;
+    height: auto;
+    display:inline-block;
+    margin-right: 10px;
+    vertical-align: middle;
+}
